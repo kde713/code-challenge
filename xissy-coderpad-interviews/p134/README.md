@@ -1,5 +1,7 @@
 # Problem 134 [Easy]
 
+### ENG
+
 This problem was asked by Facebook.
 
 You have a large array with most of the elements as zero.
@@ -10,7 +12,7 @@ Use a more space-efficient data structure, SparseArray, that implements the same
 * `set(i, val)`: updates index at i with val.
 * `get(i)`: gets the value at index i.
 
----
+### KOR
 
 페이스북에서 제출된 문제입니다.
 
