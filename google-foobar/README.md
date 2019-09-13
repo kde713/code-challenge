@@ -1,4 +1,4 @@
 ### Google Foobar
 
 - link: `https://foobar.withgoogle.com`
-- environment: `Python 2.7`
+- environment: `Python 2.7.13`

@@ -96,8 +96,6 @@ def answer(M, F):
 
 
 if __name__ == "__main__":
-    import timeit
-    print timeit.timeit("answer('1', '100000000000000000000000000000000000000000000000000')", setup="from __main__ import answer")
-    # assert answer("2", "1") == "1"
-    # assert answer("2", "4") == "impossible"
-    # assert answer("4", "7") == "4"
+    assert answer("2", "1") == "1"
+    assert answer("2", "4") == "impossible"
+    assert answer("4", "7") == "4"

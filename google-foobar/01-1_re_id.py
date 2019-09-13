@@ -54,4 +54,3 @@ def answer(n):
 if __name__ == "__main__":
     assert (answer(0) == "23571")
     assert (answer(3) == "71113")
-    print answer(10000)
