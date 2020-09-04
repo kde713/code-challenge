@@ -1,4 +1,12 @@
-.idea
-venv
+# OS
 .DS_Store
+
+# IDE
+.idea
+
+# Python
+venv
 *.pyc
+
+# Github Codespace
+pythonenv*
